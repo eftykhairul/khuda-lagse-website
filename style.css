@@ -1,5 +1,6 @@
 body{
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
 }
 .font-colour{
     color: orange;
@@ -27,4 +28,18 @@ h2{
     padding: 10px 30px;
     border-radius: 6px;
     font-weight: bold;
+}
+.poster{
+    background-image: url(shapes/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.middle-allign{
+    text-align: center;
+    width:50%;
+    padding-left: 25%;
+    
+}
+h3{
+    font-size: 30px;
 }
