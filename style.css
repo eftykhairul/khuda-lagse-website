@@ -71,8 +71,6 @@ h3{
     margin-left: auto;
     margin-right: auto;
     border-radius: 30px;
-    image
-    
     
 }
 #roadside{
@@ -98,4 +96,48 @@ h3{
     margin-left: 7%;
     border-radius: 30px;
     
+}
+.new-class{
+    width: 90%;
+    border-radius: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 60px grey;
+    
+}
+#youtube{
+    border-left: 5px;
+    border-image-slice: 1;
+    margin-left: 9%;
+    
+}
+#instagram{
+    border-left: 5px;
+    border-image-slice: 1;
+    margin-left: 20%;
+}
+#twitter{
+    border-left: 5px;
+    border-image-slice: 1;
+    margin-left: 25%;
+}
+footer h3{
+    text-align: center;
+}
+footer p{
+    text-align: center;
+}
+.heading-colour{
+    color:grey;
+}
+#footer-colour{
+    color: honeydew;
+}
+footer{
+    background:url("shapes/84-843418_background-black-darkblue-light-textures-texture-download-background.jpg"); 
+    height: 200px; 
+    width:100%; 
+    overflow:hidden;
 }
