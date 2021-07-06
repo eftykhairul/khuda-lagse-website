@@ -4,6 +4,7 @@ body{
 }
 .font-colour{
     color: orange;
+    text-decoration: none;
 }
 h1{
     font-size: 50px;
@@ -21,6 +22,7 @@ h2{
 .flexible-web{
     display: flex;
     margin-bottom: 100px;
+    
 }
 .link-adding{
     text-decoration: black;
@@ -42,4 +44,58 @@ h2{
 }
 h3{
     font-size: 30px;
+}
+.best-food{
+    
+    background-position: left;
+    padding-bottom: 5%;
+
+}
+.review{
+    width: 40%;
+    border-radius: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 5px;
+    box-shadow: 10px 10px 60px gray;
+}
+#munch{
+    border-left: 5px;
+    border-image-slice: 1;
+    text-align: justify;
+}
+#munch img{
+    width: 300px;
+    height: 300px;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    image
+    
+    
+}
+#roadside{
+    border-left: 7px;
+    border-image-slice: 1;
+    text-align: justify;
+}
+#roadside img{
+    width: 300px;
+    height: 300px;
+    margin-left: 7%;
+    border-radius: 30px;
+
+}
+#sweetsin{
+    border-left: 7px;
+    border-image-slice: 1;
+    text-align: justify;
+}
+#sweetsin img{
+    width: 300px;
+    height: 300px;
+    margin-left: 7%;
+    border-radius: 30px;
+    
 }
